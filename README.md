@@ -11,7 +11,7 @@ An approach for getting the page source on the client side to be SEO friendly fo
 ## Installation
 
 To install the necessary dependencies for this project, run the following command:
-pip install dash dashseo flask dash_mantine_components
+`pip install dash dashseo flask dash_mantine_components`
 
 
 
