@@ -40,4 +40,4 @@ Contributions are welcome. Please open an issue to discuss your idea or submit a
 
 
 ## Current issues
-With Dash Mantine Components library the convert to html function struggles to generate the HTML.
+It does convert to html certain elements but not others
