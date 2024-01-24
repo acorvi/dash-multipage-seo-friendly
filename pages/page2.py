@@ -11,5 +11,5 @@ dash.register_page(
 #layout
 layout = html.Div([
     html.H1("Hello, I'm Page2!"),
-    dmc.Anchor(dmc.Button("Go to Homepage"),href='/'),
+    dmc.Anchor(dmc.Button("Go to PAGE3"),href='/page3'),
 ])
