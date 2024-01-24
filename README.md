@@ -41,6 +41,6 @@ The `server` variable is exposed for deployment purposes. Use this variable when
 
 Contributions are welcome. Please open an issue to discuss your idea or submit a pull request.
 
-## License
 
-This project is licensed under the terms of the MIT license.
+## Current issues
+With Dash Mantine Components library the convert to html function struggles to generate the HTML.
