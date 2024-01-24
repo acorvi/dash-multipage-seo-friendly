@@ -33,9 +33,6 @@ To add a new page to the application:
 3. Add the page path and title to the `page_titles` dictionary.
 4. Add the page path and layout to the `page_layouts` dictionary.
 
-## Deployment
-
-The `server` variable is exposed for deployment purposes. Use this variable when deploying the application to a WSGI server.
 
 ## Contributing
 
