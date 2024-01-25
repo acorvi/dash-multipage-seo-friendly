@@ -26,7 +26,7 @@ class CustomDash(Dash):
             # Add more pages here
         }
 
-        #for layout of page 3 I do manual insertion so that each component is listed in the html
+        #for layout of page 3 I do manual insertion so that each component is listed in the html. This avoid issues with conversion from layout to html, all is done manually
         layout_page3_simplified= '''
         <main id="_pages_content">
             <h1>Hello, I'm Page3 and this time in my page source you will find everything!</h1>
@@ -67,8 +67,6 @@ class CustomDash(Dash):
         kwargs['title'] = title
 
 
-        ### THIS IS WHERE I'M STUCK #### UNCOMMENT THIS TO SEE THE ERROR
-        
         # Get the layout for the current page
         layout_html = convert_to_html(layout_seo)
 
